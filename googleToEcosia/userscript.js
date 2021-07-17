@@ -3,9 +3,11 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.google.com/
 // @grant       none
-// @version     3.5
+// @version     2.0
 // @author      TheTechRobo
 // @description 19/06/2021, 14:07:49
+// @updateURL   https://raw.githubusercontent.com/TheTechRobo/stupid-userscripts/main/googleToEcosia/userscript.js
+// @downloadURL https://raw.githubusercontent.com/TheTechRobo/stupid-userscripts/main/googleToEcosia/userscript.js
 // ==/UserScript==
 var arr = document.querySelectorAll('.gNO89b');
 for (var i=0;i<arr.length;i++) {
