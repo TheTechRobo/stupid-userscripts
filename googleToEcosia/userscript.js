@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.google.com/
 // @grant       none
-// @version     2.0
+// @version     3.5
 // @author      TheTechRobo
 // @description 19/06/2021, 14:07:49
 // ==/UserScript==
