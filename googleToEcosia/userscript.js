@@ -22,3 +22,4 @@ for (var i=0;i<arr.length;i++) {
   arr[i].src = "https://www.doz.com/cms/wp-content/uploads/2014/08/ecosia-logo.jpg"
   arr[i].srcset = "https://www.doz.com/cms/wp-content/uploads/2014/08/ecosia-logo.jpg"
 }
+//https://stackoverflow.com/a/16778833/9654083
