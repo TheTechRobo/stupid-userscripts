@@ -1,0 +1,3 @@
+This will check if the sci-hub page is completely blank, this signifies that the page is could not be loaded from Sci-Hub.
+If the page _is_ completely blank, userscript.js will rediredct to the original website.
+I'm going to put this on my sister's Chrome when I show her SciHub/Internetarchivescholar.
