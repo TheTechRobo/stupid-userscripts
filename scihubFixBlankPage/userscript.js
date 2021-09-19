@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://sci-hub.*/*
 // @grant       none
-// @version     1.0.1
+// @version     1.0.2
 // @author      TheTechRobo
 // @downloadURL https://raw.githubusercontent.com/TheTechRobo/stupid-userscripts/main/scihubFixBlankPage/userscript.js
 // @description 06/09/2021, 11:53:55 - Sci-Hub Go to original website when on blank page
